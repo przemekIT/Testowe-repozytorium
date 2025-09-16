@@ -1,0 +1,4 @@
+[2025-08-21 20:32:17] Uzytkownik uruchomil program
+[2025-08-21 20:32:22] Uytkownik dodaje teraz notatkę
+[2025-08-21 20:32:41] Uzytkownik uruchomil program
+[2025-08-21 20:32:46] Uytkownik dodaje teraz notatkę
