@@ -1,0 +1,51 @@
+Algorytm jazdy samochodem
+1. Otworzyć i uruchomić samochód kluczykami
+2. Nacisnąć sprzęgło i zmienić bieg na 1.
+3. Nacisnąć gaz
+4. Skręcać odpowiednio kierownicą
+5. Włączenie kierunkowskazu przy skręcie
+6. Nacisnąć hamulec
+7. Wyłączyć samochód wyjąć kluczyki
+
+Algorytm zakupu opon rowerowych
+1. Włączenie strony internetowej sklepu
+2. Zapoznanie się z ofertą
+3. Wybranie odpowiedniego modelu opon
+4. Wybranie miejsca i sposobu dostawy
+5. Płatność
+6. Odbiór opon
+
+Algorytm pisania powieści
+1. Pójście do kawiarni i zamówienie kawy
+2. Wpadnięcie na pomysł
+3. Opis i rozwój świata powieści
+4. Charakterystyka głównego bohatera
+5. Dorobienie postaci pobocznych
+6. Rozwój fabuły
+7. Zapłacenie za kawę
+
+Algorytm montażu drzwi
+1. Zakup drzwi i sprzętu
+2. Wezwanie pomocy
+3. Montaż zawiasów
+4. Montaż odbijaczy (jeśli potrzebne)
+5. Zamocowanie drzwi na zawiasach
+6. Sprawdzenie poprawności montażu
+
+Algorytm jazdy na deskorolce
+1. Postawienie nogi na deskorolce
+2. Odepchnięcie się drugą nogą od podłoża
+3. Postawienie drugiej nogi na deskorolce
+4. Manewrowanie ciałem, by skręcać
+5. Utrzymanie równowagi
+6. Kolejne odepchnięcie
+7. Zejście z deskorolki
+
+Algorytm zmywania naczyń
+1. Przygotowanie gąbki i płynu do naczyń
+2. Odkręcenie kranu z ciepłą wodą
+3. Namoczenie gąbki płynem do naczyń
+4. Szorowanie naczynia gąbką z płynem
+5. Opłukanie naczynia
+6. Odstawienie naczynia na suszarkę
+7. Szorowanie kolejnego naczynia
