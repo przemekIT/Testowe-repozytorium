@@ -1,0 +1,1 @@
+# Uporzadkowana, moze zawierac rozne typy danych, elementy
